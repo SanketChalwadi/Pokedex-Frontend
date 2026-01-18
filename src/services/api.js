@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-  baseURL: "https://pokedex-backend-ffhl.onrender.com/"
+  baseURL: "https://pokedex-backend-ffhl.onrender.com",
 });
