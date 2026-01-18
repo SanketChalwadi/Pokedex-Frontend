@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Inter:wght@400;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Inter", sans-serif;
+  color: #000000; /* ✅ FORCE ALL TEXT TO BLACK */
+  background-color: #f3f4f6; /* optional but recommended */
+}
+
+/* Use pixel font only for titles */
+.pokemon-font {
+  font-family: "Press Start 2P", monospace;
+  color: #000000; /* ✅ Pokémon names always black */
+}
+
+.pixelated {
+  image-rendering: pixelated;
+}
