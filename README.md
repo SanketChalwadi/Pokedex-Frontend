@@ -1,16 +1,43 @@
-# React + Vite
+# 🧭 Pokédex Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **full-stack Pokédex application** inspired by classic Pokémon games.  
+Browse Pokémon by region, view detailed stats, shiny forms, evolution chains, and compare Pokémon — all in a responsive, game-style UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Links
 
-## React Compiler
+- **Frontend:** https://pokedex-frontend-mu.vercel.app/
+- **Backend API:** https://pokedex-backend-ffhl.onrender.com/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🏷️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![React](https://img.shields.io/badge/React-18-blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-38bdf8)
+![Node](https://img.shields.io/badge/Node.js-Backend-green)
+![Express](https://img.shields.io/badge/Express-API-black)
+![Vercel](https://img.shields.io/badge/Vercel-Frontend-black)
+![Render](https://img.shields.io/badge/Render-Backend-purple)
+
+---
+
+## ✨ Features
+
+- 🔍 Pokémon search by name  
+- 🌍 Region-wise browsing (Kanto → Galar)  
+- 📊 Detailed Pokémon view (stats, abilities, moves)  
+- ✨ Shiny Pokémon toggle  
+- 🔄 Evolution chain visualization  
+- ⭐ Favorites (localStorage)  
+- ⚔ Pokémon comparison tool  
+- ⏳ Loading & skeleton animations  
+- 📱 Fully responsive (mobile → desktop)
+
+---
+
+## 📸 Screenshots
+
+> *(Add screenshots here for maximum impact)*
+
