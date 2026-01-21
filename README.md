@@ -7,7 +7,7 @@ Browse Pokémon by region, view detailed stats, shiny forms, evolution chains, a
 
 ## 🚀 Live Links
 
-- **Frontend:** https://pokedex-frontend-mu.vercel.app/
+- **Frontend:** [https://pokedex-frontend-mu.vercel.app/](https://pokedex-frontend-tau.vercel.app/)
 - **Backend API:** https://pokedex-backend-ffhl.onrender.com/
 
 ---
